@@ -14,3 +14,5 @@ TOPICS COVERED:
 </ol>
 
 ## LINEAR REGRESSION:
+- it is a superviser learning algorithm
+- 
