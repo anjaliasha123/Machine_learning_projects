@@ -20,4 +20,4 @@ TOPICS COVERED:
 
 ![Screenshot](https://github.com/anjaliasha123/Machine_learning_projects/blob/master/imgs/eq1.gif?raw=true)
 
--here the parameters: \theta_{0} & \theta_{1}
+-here the parameters: $\theta_{0} & \theta_{1}
