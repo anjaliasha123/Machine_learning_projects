@@ -12,3 +12,5 @@ TOPICS COVERED:
      <li> decision trees
    </ul>
 </ol>
+
+## LINEAR REGRESSION:
