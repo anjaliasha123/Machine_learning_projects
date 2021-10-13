@@ -15,4 +15,5 @@ TOPICS COVERED:
 
 ## LINEAR REGRESSION:
 - it is a superviser learning algorithm
+- regression problem, ie, it gives real valued data as output
 - 
